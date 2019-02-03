@@ -1,1 +1,1 @@
-# Computational-Science-and-Engineering-Gilbert-Strang-
+# Computational-Science-and-Engineering-Gilbert-Strang
